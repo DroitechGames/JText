@@ -1,0 +1,5 @@
+c:\users\master cassidy\documents\visual studio 2010\Projects\JustifyText\JustifyText\obj\Debug\ResolveAssemblyReference.cache
+c:\users\master cassidy\documents\visual studio 2010\Projects\JustifyText\JustifyText\bin\Debug\JText.dll
+c:\users\master cassidy\documents\visual studio 2010\Projects\JustifyText\JustifyText\bin\Debug\JText.pdb
+c:\users\master cassidy\documents\visual studio 2010\Projects\JustifyText\JustifyText\obj\Debug\JText.dll
+c:\users\master cassidy\documents\visual studio 2010\Projects\JustifyText\JustifyText\obj\Debug\JText.pdb
