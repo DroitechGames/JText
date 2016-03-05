@@ -11,7 +11,7 @@
 
 /// ##  |     
 
-/// ##  |   ATR-LINE: Justified by JText from Droitech Games - www.droitechgames.com/jtext
+/// ##  |   ATR-LINE: Justified by JText from Droitech Games - https://github.com/DroitechGames/JText
 
 /// ##  |   
 
