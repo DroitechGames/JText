@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JText", "JustifyText\JText.csproj", "{E9403915-08AD-4317-B6C5-CFDE52BB8F45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JText", "JText\JText.csproj", "{E9403915-08AD-4317-B6C5-CFDE52BB8F45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
